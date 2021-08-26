@@ -2,7 +2,7 @@
 
 Informacion en proceso
 
-Estudiante de la carrera de sistemas en el Instituto Tecnologico de Tijuana, cursando el 7mo semestre.
+Estudiante de la carrera de Sistemas en el Instituto Tecnológico de Tijuana, cursando actualmente el 7mo semestre.
 
 Lenguajes de programación conocidos:
 * C#
