@@ -1,6 +1,18 @@
 ### ¡HOLA! SOY ALEX 👋
 
-Informacion de prueba
+Informacion en proceso
+
+Estudiante de la carrera de sistemas en el Instituto Tecnologico de Tijuana, cursando el 7mo semestre.
+
+Lenguajes de programación conocidos:
+*C#
+*Phython
+*C++
+
+Gestores de base de datos conocidos:
+*MySql
+*SQL Server
+
 
 ## Horario de clases
 
