@@ -4,12 +4,12 @@ Informacion en proceso
 
 Estudiante de la carrera de Sistemas en el Instituto Tecnológico de Tijuana, cursando actualmente el 7mo semestre.
 
-Lenguajes de programación conocidos:
+Lenguajes de programación utilizados:
 * C#
 * Phython
 * C++
 
-Gestores de base de datos conocidos:
+Gestores de base de datos utilizados:
 * MySql
 * SQL Server
 
