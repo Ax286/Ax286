@@ -1,7 +1,5 @@
 ### ¡HOLA! SOY ALEX 👋
 
-Informacion en proceso
-
 Estudiante de la carrera de Sistemas en el Instituto Tecnológico de Tijuana, cursando actualmente el 7mo semestre.
 
 Lenguajes de programación utilizados:
