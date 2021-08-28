@@ -1,4 +1,4 @@
-![GitHub Logo](https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg)
+![GitHub Logo](https://image.flaticon.com/icons/png/512/1208/1208852.png)
 
 ### ¡HOLA! SOY ALEX 👋
 
