@@ -1,4 +1,4 @@
-![GitHub Logo](https://image.flaticon.com/icons/png/512/1208/1208852.png)
+![GitHub Logo](https://ibb.co/W64L4y2)
 
 ### ¡HOLA! SOY ALEX 👋
 
