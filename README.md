@@ -1,4 +1,4 @@
-[cafe.png](https://postimg.cc/w7KNVSJq)
+[![cafe.png](https://i.postimg.cc/SNRGy4xM/cafe.png)](https://postimg.cc/w7KNVSJq)
 
 ### ¡HOLA! SOY ALEX 👋
 
