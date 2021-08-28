@@ -1,3 +1,5 @@
+![GitHub Logo](https://www.enter.co/wp-content/uploads/2021/02/4401280-768x432.jpg)
+
 ### ¡HOLA! SOY ALEX 👋
 
 Estudiante de la carrera de Sistemas en el Instituto Tecnológico de Tijuana, cursando actualmente el 7mo semestre.
