@@ -1,4 +1,4 @@
-[![cafe.png](https://www.tijuana.tecnm.mx/wp-content/uploads/2014/11/Heading-Ing-sistemas.png)
+[![Heading-Ing-sistemas.png](https://i.postimg.cc/L6gZC8sN/Heading-Ing-sistemas.png)](https://postimg.cc/rKcmzcxr)
 
 ### ¡HOLA! SOY ALEX 👋
 
