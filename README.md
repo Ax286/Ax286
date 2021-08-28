@@ -1,4 +1,4 @@
-![GitHub Logo](https://ibb.co/W64L4y2)
+![GitHub Logo](https://postimg.cc/w7KNVSJq)
 
 ### ¡HOLA! SOY ALEX 👋
 
