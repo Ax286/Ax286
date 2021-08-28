@@ -1,4 +1,4 @@
-[![Heading-Ing-sistemas.png](https://i.postimg.cc/L6gZC8sN/Heading-Ing-sistemas.png)](https://postimg.cc/rKcmzcxr)
+[![Heading-Ing-sistemas.png](https://i.postimg.cc/sDWvPHnL/Heading-Ing-sistemas.png)](https://postimg.cc/8j1pN4gd)
 
 ### ¡HOLA! SOY ALEX 👋
 
