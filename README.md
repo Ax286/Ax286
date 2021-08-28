@@ -1,4 +1,4 @@
-![GitHub Logo](https://postimg.cc/w7KNVSJq)
+[cafe.png](https://postimg.cc/w7KNVSJq)
 
 ### ¡HOLA! SOY ALEX 👋
 
